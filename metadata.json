@@ -1,0 +1,7 @@
+{
+  "name": "LỚP 12A16 - CÔ PHƯƠNG LINH",
+  "description": "Hệ Thống Quản Lý Giáo Dục Thông Minh LỚP 12A16 - CÔ PHƯƠNG LINH. Kết nối Database trực tuyến Google Sheet: Danh sách lớp học, Hồ sơ học sinh, Điểm số lớp 10-11, Nội quy nhà trường và Quản lý điểm trừ vi phạm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
